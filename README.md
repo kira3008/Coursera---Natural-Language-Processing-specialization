@@ -93,23 +93,23 @@ Notes, Assignments and Relevant stuff from NLP course by deeplearning.ai, hosted
 
 ### Week 1: Neural Machine Translation
 
-- [Stack Semantics](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Attention%20Models/C4_W1_Ungraded_Lab_Stack_Semantics.ipynb)
-- [BLEU score](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Attention%20Models/C4_W1_Ungraded_Lab_Bleu_Score.ipynb)
-- [Assignment 1](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Attention%20Models/C4_W1_Assignment.ipynb)
+- [Stack Semantics](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Attention%20Models/Week%201/C4_W1_Ungraded_Lab_Stack_Semantics.ipynb)
+- [BLEU score](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Attention%20Models/Week%201/C4_W1_Ungraded_Lab_Bleu_Score.ipynb)
+- [Assignment 1](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Attention%20Models/Week%201/C4_W1_Assignment.ipynb)
 
 ### Week 2: Text Summarization
 
-- [Attention](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Attention%20Models/C4_W2_lecture_notebook_Attention.ipynb)
-- [The Transformer Decoder](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Attention%20Models/C4_W2_lecture_notebook_Transformer_Decoder.ipynb)
-- [Assignment 2](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Attention%20Models/C4_W2_Assignment.ipynb)
+- [Attention](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Attention%20Models/Week%202/C4_W2_lecture_notebook_Attention.ipynb)
+- [The Transformer Decoder](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Attention%20Models/Week%202/C4_W2_lecture_notebook_Transformer_Decoder.ipynb)
+- [Assignment 2](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Attention%20Models/Week%202/C4_W2_Assignment.ipynb)
 
 ### Week 3: Question Answering
 
-- [SentencePiece and BPE](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Attention%20Models/C4_W3_SentencePiece_and_BPE.ipynb)
-- [Assignment 3](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Attention%20Models/C4_W3_Assignment.ipynb)
+- [SentencePiece and BPE](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Attention%20Models/Week%203/C4_W3_SentencePiece_and_BPE.ipynb)
+- [Assignment 3](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Attention%20Models/Week%203/C4_W3_Assignment.ipynb)
 
 ### Week 4: Chatbot
 
-- [Reformer LSH](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Attention%20Models/C4_W4_Ungraded_Lab_Reformer_LSH.ipynb)
-- [Revnet](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Attention%20Models/C4_W4_Ungraded_Lab_Revnet.ipynb)
-- [Assignment 4](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Attention%20Models/C4_W4_Assignment.ipynb)
+- [Reformer LSH](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Attention%20Models/Week%204/C4_W4_Ungraded_Lab_Reformer_LSH.ipynb)
+- [Revnet](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Attention%20Models/Week%204/C4_W4_Ungraded_Lab_Revnet.ipynb)
+- [Assignment 4](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Attention%20Models/Week%204/C4_W4_Assignment.ipynb)
