@@ -2,7 +2,7 @@
 
 Notes, Assignments and Relevant stuff from NLP course by deeplearning.ai, hosted on Coursera.
 
-## Course 1: Natural Language Processing with Classification and Vector Spaces
+## Course 1: [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp?specialization=natural-language-processing)
 
 ### Week 1: Sentiment Analysis with Logistic Regression
 
@@ -29,7 +29,7 @@ Notes, Assignments and Relevant stuff from NLP course by deeplearning.ai, hosted
 - [Hash tables](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%204/NLP_C1_W4_lecture_nb_02.ipynb)
 - [Assignment 4](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%204/C1_W4_Assignment.ipynb)
 
-## Course 2: Natural Language Processing with Probabilistic Models
+## Course 2: [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp?specialization=natural-language-processing)
 
 ### Week 1: Autocorrect
 
@@ -59,7 +59,7 @@ Notes, Assignments and Relevant stuff from NLP course by deeplearning.ai, hosted
 - [Word Embeddings: Hands On](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Probabilistic%20Models/Week%204/NLP_C2_W4_lecture_notebook_word_embeddings.ipynb)
 - [Assignment 4](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Probabilistic%20Models/Week%204/C2_W4_Assignment.ipynb)
 
-## Course 3: Natural Language Processing with Sequence Models
+## Course 3: [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp?specialization=natural-language-processing)
 
 ### Week 1: Neural Network for Sentiment Analysis
 
@@ -87,7 +87,9 @@ Notes, Assignments and Relevant stuff from NLP course by deeplearning.ai, hosted
 - [Modified Triplet Loss](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Sequence%20Models/Week%204/C3_W4_Lecture_Notebook_Modified_Triplet_Loss.ipynb)
 - [Assignment 4](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Sequence%20Models/Week%204/C3_W4_Assignment.ipynb)
 
-## Course 4: Natural Language Processing with Attention Models
+## Course 4: [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp?specialization=natural-language-processing)
+
+### [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
 
 ### Week 1: Neural Machine Translation
 
