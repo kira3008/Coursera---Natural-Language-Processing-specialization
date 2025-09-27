@@ -66,7 +66,7 @@ Notes, Assignments and Relevant stuff from NLP course by deeplearning.ai, hosted
 - [Introduction to Trax](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Sequence%20Models/Week%201/NLP_C3_W1_lecture_nb_01_trax_intro.ipynb)
 - [Classes and Subclasses](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Sequence%20Models/Week%201/NLP_C3_W1_lecture_nb_02_classes.ipynb)
 - [Data Generators](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Sequence%20Models/Week%201/NLP_C3_W1_lecture_nb_03_data_generatos.ipynb)
-- [Assignment 1](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Sequence%20Models/Week%201/C3_W1_Assignment.ipynb)
+- [Assignment 1](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Sequence%20Models/Week%201/C3W1_Assignment.ipynb)
 
 ### Week 2: Recurrent Neural Networks for Language Modeling
 
@@ -74,12 +74,12 @@ Notes, Assignments and Relevant stuff from NLP course by deeplearning.ai, hosted
 - [Working with JAX NumPy and Calculating Perplexity](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Sequence%20Models/Week%202/C3_W2_lecture_notebook_perplexity.ipynb)
 - [Vanilla RNNs, GRUs and the scan function](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Sequence%20Models/Week%202/C3_W2_lecture_notebook_RNNs.ipynb)
 - [Creating a GRU model using Trax](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Sequence%20Models/Week%202/C3_W2_lecture_notebook_GRU.ipynb)
-- [Assignment 2](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Sequence%20Models/Week%202/C3_W2_Assignment.ipynb)
+- [Assignment 2](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Sequence%20Models/Week%202/C3W2_Assignment.ipynb)
 
 ### Week 3: LSTM and Name Entity Recognition
 
 - [Vanishing Gradient](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Sequence%20Models/Week%203/C3_W3_Lecture_Notebook_Vanishing_Gradients.ipynb)
-- [Assignment 3](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Sequence%20Models/Week%203/C3_W3_Assignment.ipynb)
+- [Assignment 3](https://github.com/kira3008/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Sequence%20Models/Week%203/C3W3_Assignment.ipynb)
 
 ### Week 4: Siamese Networks
 
